@@ -1,5 +1,5 @@
 #############################################################
-#                  EU-CLICK OVERVIEW                        #
+#                  EU-KLICK OVERVIEW                        #
 #############################################################
 
 <b> Resource for helping the move to euclid from klicky</b> 
