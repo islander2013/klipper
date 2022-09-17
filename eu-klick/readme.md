@@ -12,3 +12,5 @@ I tried klicky / klickyNG / unklickyNG and each one had their own issues. I just
 
 This is an attempt to help people transition to eulicd from klicky.
 
+
+<sub> <b> note: klicky is an awesome concept and the support/people behind it are amazing. It might work great for 99% of users and thats fine. But its not for everyone.
